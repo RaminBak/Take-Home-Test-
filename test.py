@@ -3,7 +3,7 @@ from selenium.webdriver.common.by import By
 from selenium.webdriver.common.keys import Keys
 
 #Hier wird der Pfad zu ChromeDrive festgelegt
-path = "/Users/alexfrankow/Desktop/chromedriver"
+path = "/Users/Ramin/Desktop/chromedriver"
 #Hier wird die Sucheingabe festgelegt. Man kann individuell in die Console einen Suchbegriff eingeben
 sucheingabe = input("Bitte Suchbegriff eingeben")    
 #Danach öffnet sich Chrome
